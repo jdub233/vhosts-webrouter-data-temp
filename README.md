@@ -19,6 +19,8 @@ Non path-preserving redirects as webrouter rules are in `vhosts-single-redirects
 
 87 are rules that preserve the path of the original request.  Path preserving redirects are indicated with a `redirect` directive in webrouter
 
+Non path-preserving redirects as webrouter rules are in `vhosts-single-redirects/no-asis-maps/`
+
 ## Multiple redirects
 
 The remaining 20 htaccess files contain multiple redirect targets for a single host entry.
