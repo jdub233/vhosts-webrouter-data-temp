@@ -24,3 +24,13 @@ Non path-preserving redirects as webrouter rules are in `vhosts-single-redirects
 ## Multiple redirects
 
 The remaining 20 htaccess files contain multiple redirect targets for a single host entry.
+
+Only these 5 hosts have more than 5 redirects:
+
+| hostname | number of redirects |
+| --- | --- |
+| cjdegreeonline.bu.edu | 174 |
+| go.bu.edu | 164 |
+| msmonline.bu.edu | 104 |
+| cisonline.bu.edu| 30 |
+| healthcommunications.bu.edu | 9 |
