@@ -9,7 +9,4 @@ digilib.bu.edu redirect_asis ;
 digilib.bu.edu/sth/massbibles redirect ;
 digilib.bu.edu/russianmethodism redirect ;
 digilib.bu.edu/mission redirect ;
-
-## will this even work or be a good idea?
 medlib.bu.edu redirect ;
-medlib.bu.edu/ redirect_asis ;
