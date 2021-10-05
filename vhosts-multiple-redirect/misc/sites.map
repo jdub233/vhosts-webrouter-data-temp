@@ -1,0 +1,15 @@
+www-modis.bu.edu redirect ;
+www-modis.bu.edu/lidar redirect ;
+www-modis.bu.edu/brdf redirect ;
+sph.bu.edu redirect ;
+sph.bu.edu/otlt redirect ;
+management.bu.edu redirect ;
+management.bu.edu/yfif redirect_asis ;
+digilib.bu.edu redirect_asis ;
+digilib.bu.edu/sth/massbibles redirect ;
+digilib.bu.edu/russianmethodism redirect ;
+digilib.bu.edu/mission redirect ;
+
+## will this even work or be a good idea?
+medlib.bu.edu redirect ;
+medlib.bu.edu/ redirect_asis ;
